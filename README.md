@@ -6,3 +6,6 @@ pid and pwm control of heating element.
 mechanical valve control with percentage display.
 inline flow pressure gage with display.
 alarms.
+
+discarding touchscreen for standard screen with mouse and keyboard
+
